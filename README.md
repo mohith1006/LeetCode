@@ -36,4 +36,20 @@ My solutions to LeetCode problems with expalantions and optimized approaches in 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/mohith1006/LeetCode/tree/master/0041-first-missing-positive) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mohith1006/LeetCode/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mohith1006/LeetCode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mohith1006/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mohith1006/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
