@@ -30,11 +30,13 @@ My solutions to LeetCode problems with expalantions and optimized approaches in 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/mohith1006/LeetCode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/mohith1006/LeetCode/tree/master/0041-first-missing-positive) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohith1006/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/mohith1006/LeetCode/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohith1006/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -60,4 +62,8 @@ My solutions to LeetCode problems with expalantions and optimized approaches in 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mohith1006/LeetCode/tree/master/0067-add-binary) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/mohith1006/LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
