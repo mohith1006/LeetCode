@@ -54,6 +54,7 @@ My solutions to LeetCode problems with expalantions and optimized approaches in 
 | ------- |
 | [0066-plus-one](https://github.com/mohith1006/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mohith1006/LeetCode/tree/master/0067-add-binary) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/mohith1006/LeetCode/tree/master/2443-sum-of-number-and-its-reverse) |
 ## String
 |  |
 | ------- |
@@ -70,4 +71,8 @@ My solutions to LeetCode problems with expalantions and optimized approaches in 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/mohith1006/LeetCode/tree/master/0018-4sum) |
+## Enumeration
+|  |
+| ------- |
+| [2443-sum-of-number-and-its-reverse](https://github.com/mohith1006/LeetCode/tree/master/2443-sum-of-number-and-its-reverse) |
 <!---LeetCode Topics End-->
