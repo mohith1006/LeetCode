@@ -63,6 +63,7 @@ My solutions to LeetCode problems with expalantions and optimized approaches in 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mohith1006/LeetCode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/mohith1006/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mohith1006/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
@@ -79,5 +80,6 @@ My solutions to LeetCode problems with expalantions and optimized approaches in 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/mohith1006/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mohith1006/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
