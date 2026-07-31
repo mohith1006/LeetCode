@@ -54,6 +54,7 @@ My solutions to LeetCode problems with expalantions and optimized approaches in 
 | ------- |
 | [0066-plus-one](https://github.com/mohith1006/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mohith1006/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/mohith1006/LeetCode/tree/master/0070-climbing-stairs) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/mohith1006/LeetCode/tree/master/2443-sum-of-number-and-its-reverse) |
 ## String
 |  |
@@ -82,4 +83,12 @@ My solutions to LeetCode problems with expalantions and optimized approaches in 
 | ------- |
 | [0190-reverse-bits](https://github.com/mohith1006/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mohith1006/LeetCode/tree/master/0191-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mohith1006/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mohith1006/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
