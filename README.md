@@ -33,6 +33,7 @@ My solutions to LeetCode problems with expalantions and optimized approaches in 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mohith1006/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/mohith1006/LeetCode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/mohith1006/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/mohith1006/LeetCode/tree/master/0041-first-missing-positive) |
@@ -41,6 +42,7 @@ My solutions to LeetCode problems with expalantions and optimized approaches in 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mohith1006/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/mohith1006/LeetCode/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohith1006/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -98,4 +100,8 @@ My solutions to LeetCode problems with expalantions and optimized approaches in 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohith1006/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mohith1006/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
