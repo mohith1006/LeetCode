@@ -65,6 +65,7 @@ My solutions to LeetCode problems with expalantions and optimized approaches in 
 | [0067-add-binary](https://github.com/mohith1006/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mohith1006/LeetCode/tree/master/0070-climbing-stairs) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/mohith1006/LeetCode/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mohith1006/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ My solutions to LeetCode problems with expalantions and optimized approaches in 
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/mohith1006/LeetCode/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mohith1006/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Divide and Conquer
 |  |
 | ------- |
